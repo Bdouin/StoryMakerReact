@@ -4,45 +4,57 @@
   <a href="#">
     <img src="https://drive.google.com/uc?export=view&id=1N-tBT1oekTwxdhcmrGo50AX3gyJf0igE" alt="Logo" width="120" height="120">
   </a>
+</p>
 
 
 
 
 <!-- PROJECT LOGO -->
-# **Assalamu Alaikum!**
+<h1 align="center">
+  Assalamu Alaikum
+</h1>
 
-The HooPow family is looking for new talents to help  in achieving what we believe is a lofty goal. 
+<h1 align="center"  style="color:#51AABC">
+  <span style="font-style:italic" >REACT</span>  to This Challenge !
+</h1>
 
-As HooPow, we aim to provide a platform for children to learn their values, acquire a comprehensive understanding of the fundamental tenets of Islam, and  enjoy halaal internet time. 
 
-In our platform, they share, they play, they learn, and they grow. 
+<!-- PROJECT DESCRIPTION -->
 
-As you can imagine, this endeavor is as demanding as it is rewarding. Hence, if you believe you have the potential to contribute to this endeavor with your React skills, we invite you to join us 💪🏻
+Our hero, Walad, needs your help. Has has so much to say and so much to do but he is having hard times to organize his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
 
-We prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
+For this end, we prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
 
 <br />
 
-## **Showtime !**
+## **Bubble Sort, Well sort of..**
 
 <br />
 
 ### **Objective:**
 
-Please refer to the XD file in the project folder. In the XD file, you will find the visual representation of what we want you to implement. Examine it carefully, make sure that you caught the small details and start hacking! 
+In this call, we want you to design and impelement a React library which will enable Walad to speak in bubbles and configure them as he wishes.
 
-For this purpose, we have provided APIs that you can use to access the data required to populate the project.
+We have some important requirements for you to fulfill.
+  
+</br>
+
+- Input String should be accepted from the user.
+- User should be able to configure the bubble's properties using cogwheel button.
+- Once the input is displayed in the bubble, the bubble should shrink by removing the whitespaces around the input.
+- By pressing and dragging the blue circle(which has arrow on it), the user should be able to change the direction of the bubble origin.
+- The user should be able to create multiple bubbles.
+- The user should be able to connect the bubbles using the blue circle. Make sure that the extremity of the parent bubble is connected to the child bubble.
+- Tapping on the bubble should 'select' the buble for editing.
+- Bubbles should be able to move across the screen but it should be withing the screen real estate without any overflows.
+- User should be able to change the bubble's background color.
+- user should be able to remove a bubble.
 
 
 
-Here are the API endpoints via which you can access the data :
+Please refer to the video below in which you you will find the visual representation of what we want you to implement. Examine it carefully, make sure that you caught the small details and start hacking! 
 
-- List all [Comic Strips](https://api.jsonbin.io/b/60d15d6c8ea8ec25bd12c083)
-- Details for [Comic Strips](https://api.jsonbin.io/b/60d15d485ed58625fd1658cb)
-- Get the [Images](https://d1628i5d9ecuu5.cloudfront.net)
-
-
-##  Here we also have prepared a demo video  👇
+##  Here, We have prepared a demo video  👇
 <br />
 
 
@@ -63,13 +75,11 @@ Here are the API endpoints via which you can access the data :
 
 <br />
 
-*  XD file has some components that video does not show. Please make sure you implement the XD file and use video only as final reference.
+*  The Video shows only the MVP of the project. We are open for any of your creative ideas.
 > 
 *  You have seven(7) days to finalize the project and submit PR.
 > 
-*  Responsiveness is a vital part to our project.
-> 
-* We expect you to keep fidelity to the provided XD file with regards to design.
+*  Please make sure it is a clean and secure code practice.
 > 
 * You can always ping us if you have any questions.
 > 
