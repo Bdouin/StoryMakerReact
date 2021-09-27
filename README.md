@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-Our hero, Walad, needs your help. He has so much to say and so much to do but he is having a hard time organizing his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
+Our hero, Walad, needs your help. He has so much to say and so much to do but he is having a hard time organizing and shaping(pun intended) his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
 
 For this end, we prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
 
