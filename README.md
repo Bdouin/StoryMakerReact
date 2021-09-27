@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-Our hero, Walad, needs your help. Has has so much to say and so much to do but he is having hard times to organize his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
+Our hero, Walad, needs your help. He has so much to say and so much to do but he is having a hard time organizing his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
 
 For this end, we prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
 
@@ -42,11 +42,11 @@ We have some important requirements for you to fulfill.
 - Input String should be accepted from the user.
 - User should be able to configure the bubble's properties using cogwheel button.
 - Once the input is displayed in the bubble, the bubble should shrink by removing the whitespaces around the input.
-- By pressing and dragging the blue circle(which has arrow on it), the user should be able to change the direction of the bubble origin.
+- By pressing and dragging the blue circle(which has arrow on it), the user should be able to change the direction of the bubble's  origin.
 - The user should be able to create multiple bubbles.
 - The user should be able to connect the bubbles using the blue circle. Make sure that the extremity of the parent bubble is connected to the child bubble.
-- Tapping on the bubble should 'select' the buble for editing.
-- Bubbles should be able to move across the screen but it should be withing the screen real estate without any overflows.
+- Tapping on the bubble should 'select' the bubble for editing.
+- Bubbles should be able to move across the screen but it should be within the screen real estate without any overflows.
 - User should be able to change the bubble's background color.
 - user should be able to remove a bubble.
 
@@ -75,7 +75,7 @@ Please refer to the video below in which you you will find the visual representa
 
 <br />
 
-*  The Video shows only the MVP of the project. We are open for any of your creative ideas.
+*  The video shows only the MVP of the project. We are open to your creative ideas.
 > 
 *  You have seven(7) days to finalize the project and submit PR.
 > 
