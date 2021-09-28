@@ -97,7 +97,7 @@ If your codebase is:
 >
 - Not complex and heavy on the system,
 > 
-- following the clean and secure code best practices,
+- Following the clean and secure code best practices,
 >
 - Allowing further integration and scalability,
 
