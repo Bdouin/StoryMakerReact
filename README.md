@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-<img src="https://drive.google.com/uc?export=view&id=1N-tBT1oekTwxdhcmrGo50AX3gyJf0igE" alt="Logo" width="120" height="120">  </a>
+<img src="banners/top.jpeg" alt="Logo" width="120" height="120">  </a>
 </p>
 
 
@@ -67,7 +67,7 @@ Please refer to the video below in which you will find the visual representation
 <br />
 
 
-[![Check the Demo!](https://drive.google.com/uc?export=view&id=1NFNHsg21SXFMWKXsh5p3_8Ydh-pDF3fZ)](https://www.youtube.com/watch?v=5SOiL_jkzBg "Muslim Show Video Demonstration")
+[![Check the Demo!](banners/ss.png)](https://www.youtube.com/watch?v=5SOiL_jkzBg "Muslim Show Video Demonstration")
 
 
 #### **Steps**
@@ -127,5 +127,5 @@ then your code could be what we want!
 
 
 
-![banner](https://drive.google.com/uc?export=view&id=1SACvqhDqhHDbIjusKxcJ3aCATtHGqDyn)
+![banner](banners/bottom.jpeg)
 
