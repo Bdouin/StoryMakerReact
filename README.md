@@ -38,11 +38,14 @@ We have some important requirements for you to fulfill.
   
 </br>
 
-- The user should be able to input a string into a bubble.
+- The user should be able to input string and emojis into a bubble.
 > 
 - Once the input is displayed in the bubble, the bubble should shrink by removing the whitespaces around the input.
 > 
-- By pressing and dragging the blue circle(which has an arrow on it), the user should be able to change the direction of the bubble's origin.
+- By pressing and dragging the blue circle(which has an arrow on it), the user should be able to change the direction of the bubble arrow.
+
+-  Make sure that once the bubble is repositioned, the bubble arrow should be repositioned as well.
+- Once the bubble is resized, bubble arrow should be resized accordingly 
 > 
 - The user should be able to create multiple bubbles.
 > 
@@ -77,6 +80,34 @@ Please refer to the video below in which you will find the visual representation
 
 <br />
 
+
+### **Success Comes With a Prize:**
+
+We value your effort and time so we prepared a small prize for you. 
+
+The selected winner will be awarded with  <ins>**€1,000.00** ! </ins>
+
+We want to hint you about the our criteria for deciding the most favorable PR.
+
+If your codebase is: 
+
+- Easily readable,
+>
+- Easy to understand,use, and maintain,
+>
+- Not complex and heavy on the system,
+> 
+- following the clean and secure code best practices,
+>
+- Allowing further integration and scalability,
+
+then your code could be what we want!
+
+
+
+
+<br />
+
 ### **Please Consider That:**
 
 <br />
@@ -84,8 +115,6 @@ Please refer to the video below in which you will find the visual representation
 - The video shows only the MVP of the project. We are open to your creative ideas.
 > 
 -  You have seven(7) days to finalize the project and submit PR.
-> 
--  Please make sure it is a clean and secure code practice.
 > 
 - You can always ping us if you have any questions.
 > 
