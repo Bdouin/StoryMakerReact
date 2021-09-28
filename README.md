@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://drive.google.com/uc?export=view&id=1N-tBT1oekTwxdhcmrGo50AX3gyJf0igE" alt="Logo" width="120" height="120">
+    <img src="https:///uc?export=view&id=1N-tBT1oekTwxdhcmrGo50AX3gyJf0igE" alt="Logo" width="120" height="120">
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-Our hero, Walad, needs your help. He has so much to say and so much to do but he is having a hard time organizing and shaping(pun intended) his thoughts and words. We want you to help him to communicate his thoughts in a more stylistic and elastic manner.
+Our hero, Walad, needs your help. He has so much to say and so much to do but he is having a hard time organizing and shaping(pun intended) his thoughts and words. We like you to help him to communicate his thoughts in a more stylistic and elastic manner.
 
-For this end, we prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
+To this end, we prepared a small and fun challenge for you. Please read the guidelines below and follow the instructions to complete the challenge.
 
 <br />
 
@@ -33,32 +33,31 @@ For this end, we prepared a small and fun challenge for you. Please read the gui
 
 ### **Objective:**
 
-In this call, we want you to design and impelement a React library which will enable Walad to speak in bubbles and configure them as he wishes.
+In this call, we want you to design and implement a React library that will enable Walad to speak in bubbles and configure them as he wishes.
 
 We have some important requirements for you to fulfill.
   
 </br>
 
-- Input String should be accepted from the user.
-- User should be able to configure the bubble's properties using cogwheel button.
+-The user should be able to input a string into a bubble.
 - Once the input is displayed in the bubble, the bubble should shrink by removing the whitespaces around the input.
-- By pressing and dragging the blue circle(which has arrow on it), the user should be able to change the direction of the bubble's  origin.
+- By pressing and dragging the blue circle(which has an arrow on it), the user should be able to change the direction of the bubble's origin.
 - The user should be able to create multiple bubbles.
 - The user should be able to connect the bubbles using the blue circle. Make sure that the extremity of the parent bubble is connected to the child bubble.
 - Tapping on the bubble should 'select' the bubble for editing.
-- Bubbles should be able to move across the screen but it should be within the screen real estate without any overflows.
+- Bubbles should be able to move across the screen but they should be within the screen real estate without any overflows.
 - User should be able to change the bubble's background color.
 - user should be able to remove a bubble.
 
 
 
-Please refer to the video below in which you you will find the visual representation of what we want you to implement. Examine it carefully, make sure that you caught the small details and start hacking! 
+Please refer to the video below in which you will find the visual representation of what we want you to implement. Please examine it carefully, make sure that you caught the small details and start hacking! 
 
 ##  Here, We have prepared a demo video  👇
 <br />
 
 
-[![Check the Demo!](https://drive.google.com/uc?export=view&id=1NFNHsg21SXFMWKXsh5p3_8Ydh-pDF3fZ)](https://www.youtube.com/watch?v=5SOiL_jkzBg "Muslim Show Video Demonstration")
+[![Check the Demo!](https:///uc?export=view&id=1NFNHsg21SXFMWKXsh5p3_8Ydh-pDF3fZ)](https:///watch?v=5SOiL_jkzBg "Muslim Show Video Demonstration")
 
 
 #### **Steps**
@@ -83,13 +82,14 @@ Please refer to the video below in which you you will find the visual representa
 > 
 * You can always ping us if you have any questions.
 > 
-* If you can create a documentation, that would be nice too.
+* If you can create documentation, that would be nice too.
 > 
-* If there is any rendering problems on this page, please refresh the page with cache-reset.(Cmd+shift+r on Mac or Ctrl+shift+r on Windows or Linux)
+* If there are any rendering problems on this page, please refresh the page with cache-reset.(Cmd+shift+r on Mac or Ctrl+shift+r on Windows or Linux)
 
 <br />
 <br />
 
 
 
-![banner](https://drive.google.com/uc?export=view&id=1SACvqhDqhHDbIjusKxcJ3aCATtHGqDyn)
+![banner](https:///uc?export=view&id=1SACvqhDqhHDbIjusKxcJ3aCATtHGqDyn)
+
