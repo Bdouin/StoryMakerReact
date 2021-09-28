@@ -38,15 +38,23 @@ We have some important requirements for you to fulfill.
   
 </br>
 
--The user should be able to input a string into a bubble.
+- The user should be able to input a string into a bubble.
+> 
 - Once the input is displayed in the bubble, the bubble should shrink by removing the whitespaces around the input.
+> 
 - By pressing and dragging the blue circle(which has an arrow on it), the user should be able to change the direction of the bubble's origin.
+> 
 - The user should be able to create multiple bubbles.
+> 
 - The user should be able to connect the bubbles using the blue circle. Make sure that the extremity of the parent bubble is connected to the child bubble.
+> 
 - Tapping on the bubble should 'select' the bubble for editing.
+> 
 - Bubbles should be able to move across the screen but they should be within the screen real estate without any overflows.
-- User should be able to change the bubble's background color.
-- user should be able to remove a bubble.
+> 
+- The user should be able to change the bubble's background color.
+> 
+- The user should be able to remove a bubble.
 
 
 
@@ -60,11 +68,11 @@ Please refer to the video below in which you will find the visual representation
 
 
 #### **Steps**
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/Library`)
+- Commit your Changes (`git commit -m 'Add some code '`)
+- Push to the Branch (`git push origin feature/Library`)
+- Open a Pull Request
 
 
 <br />
@@ -73,17 +81,17 @@ Please refer to the video below in which you will find the visual representation
 
 <br />
 
-*  The video shows only the MVP of the project. We are open to your creative ideas.
+- The video shows only the MVP of the project. We are open to your creative ideas.
 > 
-*  You have seven(7) days to finalize the project and submit PR.
+-  You have seven(7) days to finalize the project and submit PR.
 > 
-*  Please make sure it is a clean and secure code practice.
+-  Please make sure it is a clean and secure code practice.
 > 
-* You can always ping us if you have any questions.
+- You can always ping us if you have any questions.
 > 
-* If you can create documentation, that would be nice too.
+- If you can create documentation, that would be nice too.
 > 
-* If there are any rendering problems on this page, please refresh the page with cache-reset.(Cmd+shift+r on Mac or Ctrl+shift+r on Windows or Linux)
+- If there are any rendering problems on this page, please refresh the page with cache-reset.(Cmd+shift+r on Mac or Ctrl+shift+r on Windows or Linux)
 
 <br />
 <br />
