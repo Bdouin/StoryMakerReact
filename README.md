@@ -116,7 +116,7 @@ then your code could be what we want!
 >
 - The video shows only the MVP of the project. We are open to your creative ideas.
 > 
--  You have seven(7) days to finalize the project and submit PR.
+-  You have seven(7) days to finalize the project and submit PR. 
 > 
 - You can always ping us if you have any questions.
 > 
