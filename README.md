@@ -112,6 +112,8 @@ then your code could be what we want!
 
 <br />
 
+- You read, understand and agree to the [HooPow’s Coding Contest Terms and Conditions](./HooPowCodingContestT&Cs.pdf)
+>
 - The video shows only the MVP of the project. We are open to your creative ideas.
 > 
 -  You have seven(7) days to finalize the project and submit PR.
